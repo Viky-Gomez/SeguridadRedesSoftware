@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "359285ba687c8781",
+        "id": "1059a29143bbf6d1",
         "type": "tabs",
         "children": [
           {
-            "id": "6f046e4c962a7477",
+            "id": "8f24b3d792875bbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "retos-bandit/Level 8 - 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9411c8d8857fdaee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7bb0e1e627f82d02",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 0.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,11 +159,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6f046e4c962a7477",
+  "active": "74b60a19ade9da08",
   "lastOpenFiles": [
+    "[Comando.md",
+    "().md",
     "retos-bandit/Plantilla.md",
+    "retos-bandit/Level 8 - 9.md",
+    "retos-bandit/Level 4 - 5.md",
+    "retos-bandit/Level 1 - 2.md",
+    "retos-bandit/Level 0 - 1.md",
     "retos-bandit/Level 0.md",
-    "README.md",
-    "Untitled.md"
+    "retos-bandit/Level 2 - 3.md",
+    "retos-bandit/Level 3 - 4.md"
   ]
 }
