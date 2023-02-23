@@ -37,7 +37,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 |Comando | Descripcion |
 |-----|-------|
-	| ROT13 | Cifrado de sustitución de letras simple que reemplaza una letra con la letra 13 después de ella en el alfabeto.|
+|ROT13 | Cifrado de sustitución de letras simple que reemplaza una letra con la letra 13 después de ella en el alfabeto.|
 | tr | Traduce, elimina y comprime caracteres de la entrada estándar y escribe el resultado en la salida estándar. |
 
 ## Referencias
