@@ -1,7 +1,7 @@
 # Bandit Level 3 → Level 4
 
 ## Objetivo
-The password for the next level is stored in a hidden file in the **inhere** directory.
+La contraseña para el siguiente nivel se almacena en un archivo oculto en el directorio **inhere**.
 
 ## Datos de acceso al nivel
 * Servidor:  ssh bandit3@bandit.labs.overthewire.org
@@ -38,7 +38,6 @@ bandit3@bandit:~/inhere$
 ```
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | ls -la | Mostrar listado de archivos ocultos de un directorio.

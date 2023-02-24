@@ -1,7 +1,7 @@
 # Bandit Level 14 → Level 15
 
 ## Objetivo
-La contraseña para el siguiente nivel se puede recuperar enviando el Contraseña del nivel actual para el **puerto 30000 en localhost**.
+La contraseña para el siguiente nivel se puede recuperar enviando la contraseña del nivel actual para el **puerto 30000 en localhost**.
 
 ## Datos de acceso al nivel
 * Servidor: ssh bandit14@bandit.labs.overthewire.org
@@ -19,7 +19,6 @@ bandit14@bandit:~$
 ```
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | nc | (Netcat) Permite que dos equipos se conecten y compartan recursos. |

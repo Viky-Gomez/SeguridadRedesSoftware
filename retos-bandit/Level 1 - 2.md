@@ -1,7 +1,7 @@
 # Bandit Level 1 → Level 2
 
 ## Objetivo
-La contraseña para el siguiente nivel se almacena en un archivo llamado **-** ubicado en el directorio de inicio.
+La contraseña para el siguiente nivel se almacena en un archivo llamado **"-"** ubicado en el directorio de inicio.
 
 ## Datos de acceso al nivel
 * Servidor: ssh bandit1@bandit.labs.overthewire.org
@@ -38,11 +38,9 @@ bandit1@bandit:~$
 ```
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | cat | muestra el contenido de un archivo.
-
 
 ## Referencias
 - [archivos con guion](https://tldp.org/LDP/abs/html/special-chars.html)

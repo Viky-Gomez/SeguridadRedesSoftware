@@ -46,14 +46,13 @@ bandit4@bandit:~/inhere$
 ```
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | file  | Indica el tipo de archivo que contiene un directorio.|
 | * | Comodín que indica "todos", Ejemplo: file./*, aplica file a todos los archivos.*|
 
 ## Referencias
-* [ninguna*]
+* [ninguna]
 
 Fecha: 16/02/2023.
 

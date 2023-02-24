@@ -1,7 +1,7 @@
 # Bandit Level 12→ Level 13
 
 ## Objetivo
-La contraseña para el siguiente nivel se almacena en los datos del archivo**.txt**, que es un hexdump de un archivo que se ha comprimido repetidamente. Para este nivel puede ser útil crear un directorio bajo /tmp en que puede trabajar usando mkdir. Por ejemplo: mkdir /tmp/myname123. A continuación, copie el archivo de datos mediante cp y cámbiele el nombre mediante mv (lea el manpages!).
+La contraseña para el siguiente nivel se almacena en los datos del archivo **.txt**, que es un hexdump de un archivo que se ha comprimido repetidamente. Para este nivel puede ser útil crear un directorio bajo /tmp en que puede trabajar usando mkdir. Por ejemplo: mkdir /tmp/myname123. A continuación, copie el archivo de datos mediante cp y cámbiele el nombre mediante mv (lea el manpages!).
 
 ## Datos de acceso al nivel
 * Servidor: ssh bandit12@bandit.labs.overthewire.org

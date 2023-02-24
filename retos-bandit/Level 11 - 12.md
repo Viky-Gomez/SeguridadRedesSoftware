@@ -1,7 +1,7 @@
 # Bandit Level 11 → Level 12
 
 ## Objetivo
-La contraseña para el siguiente nivel se almacena en los datos del archivo**.txt**, donde todas las letras minúsculas (a-z) y mayúsculas (A-Z) han sido rotado por 13 posiciones.
+La contraseña para el siguiente nivel se almacena en los datos del archivo **.txt**, donde todas las letras minúsculas (a-z) y mayúsculas (A-Z) han sido rotado por 13 posiciones.
 
 ## Datos de acceso al nivel
 * Servidor: ssh bandit11@bandit.labs.overthewire.org
@@ -34,7 +34,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 |ROT13 | Cifrado de sustitución de letras simple que reemplaza una letra con la letra 13 después de ella en el alfabeto.|

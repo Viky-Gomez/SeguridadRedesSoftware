@@ -35,7 +35,6 @@ bandit9@bandit:~$
 ```
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | strings | Proporciona el nombre del archivo que se desea buscar en la línea de comandos..

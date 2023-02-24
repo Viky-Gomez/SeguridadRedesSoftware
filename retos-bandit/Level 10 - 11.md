@@ -1,7 +1,7 @@
 # Bandit Level 10 → Level 11
 
 ## Objetivo
-La contraseña para el siguiente nivel se almacena en los datos del archivo**.txt**, que contiene datos codificados en base64.
+La contraseña para el siguiente nivel se almacena en los datos del archivo **.txt**, que contiene datos codificados en base64.
 
 ## Datos de acceso al nivel
 * Servidor: ssh bandit10@bandit.labs.overthewire.org

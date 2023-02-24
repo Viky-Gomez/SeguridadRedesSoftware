@@ -1,7 +1,7 @@
 # Bandit Level 8 → Level 9
 
 ## Objetivo
-La contraseña para el siguiente nivel se almacena en los datos del archivo**.txt** y es la única línea de texto que aparece solo una vez.
+La contraseña para el siguiente nivel se almacena en los datos del archivo **.txt** y es la única línea de texto que aparece solo una vez.
 
 ## Datos de acceso al nivel
 * Servidor: ssh bandit8@bandit.labs.overthewire.org
@@ -33,7 +33,6 @@ bandit8@bandit:~$
 ```
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | grep | Filtra las líneas repetidas en un archivo.

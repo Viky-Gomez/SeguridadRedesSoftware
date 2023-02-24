@@ -1,7 +1,7 @@
 # Bandit Level 5 → Level 6
 
 ## Objetivo
-La contraseña para el siguiente nivel se almacena en un archivo en algún lugar bajo El directorio **inhere**, y tiene todas las propiedades siguientes:
+La contraseña para el siguiente nivel se almacena en un archivo en algún lugar bajo el directorio **inhere**, y tiene todas las propiedades siguientes:
 -   Legible por humanos.
 -   1033 Bytes de tamaño.
 -   No ejecutable.
@@ -38,7 +38,6 @@ bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ```
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | -readable | Mostrar código legible en ASCII.|

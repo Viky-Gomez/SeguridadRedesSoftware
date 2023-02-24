@@ -31,7 +31,6 @@ NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 bandit0@bandit:~$
 ```
 
-
 ## Notas Adicionales
 |Comando | Descripcion |
 |-----|-------|

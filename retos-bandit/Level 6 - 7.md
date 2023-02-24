@@ -43,7 +43,6 @@ bandit6@bandit:~$
 ```
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | -user | Especificar un usuario.|

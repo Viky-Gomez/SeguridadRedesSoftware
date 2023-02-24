@@ -1,7 +1,7 @@
 # Bandit Level 2 → Level 3
 
 ## Objetivo
-La contraseña para el siguiente nivel se almacena en un archivo llamado **espacios En este nombre de archivo** ubicado en el directorio principal.
+La contraseña para el siguiente nivel se almacena en un archivo llamado **espacios**. En este nombre de archivo ubicado en el directorio principal.
 
 ## Datos de acceso al nivel
 * Servidor: ssh bandit2@bandit.labs.overthewire.org

@@ -28,7 +28,6 @@ Connection to bandit.labs.overthewire.org closed
 ```
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | ssh | Proporciona una conexión cifrada segura entre dos hosts a través de una red insegura. |

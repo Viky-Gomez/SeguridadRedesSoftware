@@ -34,7 +34,6 @@ bandit7@bandit:~$
 ```
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | grep | Busca un patrón que definimos en un archivo de texto. |
