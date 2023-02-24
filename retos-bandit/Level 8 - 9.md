@@ -38,6 +38,6 @@ bandit8@bandit:~$
 | grep | Filtra las líneas repetidas en un archivo.
 
 ## Referencias
-* [grep]([uniq Command en LINUX con ejemplos - GeeksforGeeks](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/))
+* [grep](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/)
 
 Fecha: 16/02/2023.

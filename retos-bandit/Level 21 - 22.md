@@ -44,6 +44,6 @@ WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
 | cron | Ejecuta comandos calendarizados -> Proceso **demonio**. |
 
 ## Referencias
-* [cron]([comando cron en Linux con ejemplos - GeeksforGeeks](https://www.geeksforgeeks.org/cron-command-in-linux-with-examples/))
+* [cron](https://www.geeksforgeeks.org/cron-command-in-linux-with-examples/)
 
 Fecha: 23/02/2023.

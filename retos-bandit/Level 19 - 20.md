@@ -30,6 +30,6 @@ bandit19@bandit:~$
 | setuid / setgid | Permiten a los usuarios ejecutar un ejecutable con los permisos del sistema de archivos del propietario o grupo del ejecutable respectivamente y cambiar el comportamiento en los directorios. |
 
 ## Referencias
-* [setuid/setgid]([Setuid - Wikipedia, la enciclopedia libre](https://en.wikipedia.org/wiki/Setuid))
+* [setuid/setgid](https://en.wikipedia.org/wiki/Setuid)
 
 Fecha: 23/02/2023.

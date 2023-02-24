@@ -41,7 +41,6 @@ b'The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM\n'
 ```
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | echo | Mostrar una línea de texto / cadena en la salida estándar o un archivo.|
@@ -50,7 +49,7 @@ b'The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM\n'
 | -d | Decodificar una cadena. |
 
 ## Referencias
-* [base64]([Base64 - Wikipedia, la enciclopedia libre](https://en.wikipedia.org/wiki/Base64))
+* [base64](https://en.wikipedia.org/wiki/Base64)
 * [echo](https://phoenixnap.com/kb/echo)
 
 Fecha: 21/02/2023.

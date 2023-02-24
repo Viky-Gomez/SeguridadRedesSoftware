@@ -35,6 +35,6 @@ bandit17@bandit:~$
 | diff | Muestra las diferencias en los archivos comparándolos línea por línea. |
 
 ## Referencias
-* [diff]([comando diff en Linux con ejemplos - GeeksforGeeks](https://www.geeksforgeeks.org/diff-command-linux-examples/))
+* [diff](https://www.geeksforgeeks.org/diff-command-linux-examples/)
 
 Fecha: 23/02/2023.

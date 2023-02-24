@@ -40,6 +40,6 @@ bandit9@bandit:~$
 | strings | Proporciona el nombre del archivo que se desea buscar en la línea de comandos..
 
 ## Referencias
-* [strings]([Cómo usar el comando strings en Linux (howtogeek.com)](https://www.howtogeek.com/427805/how-to-use-the-strings-command-on-linux/))
+* [strings](https://www.howtogeek.com/427805/how-to-use-the-strings-command-on-linux/)
 
 Fecha: 16/02/2023.

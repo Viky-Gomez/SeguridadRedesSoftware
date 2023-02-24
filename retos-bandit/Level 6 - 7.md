@@ -50,6 +50,6 @@ bandit6@bandit:~$
 | 2 > | Redirigir a otro destino. |
 
 ## Referencias
-* [ninguna]
+* [Ninguna]
 
 Fecha: 16/02/2023.

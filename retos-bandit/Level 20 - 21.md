@@ -29,6 +29,6 @@ bandit20@bandit:~$
 | & | Background. | 
 
 ## Referencias
-* [nc]([Comando nc (netcat): Qué es y cómo se usa | Neoguias](https://www.neoguias.com/comando-nc/))
+* [nc](https://www.neoguias.com/comando-nc/)
 
 Fecha: 23/02/2023.

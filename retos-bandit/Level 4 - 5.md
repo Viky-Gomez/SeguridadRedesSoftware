@@ -52,7 +52,7 @@ bandit4@bandit:~/inhere$
 | * | Comodín que indica "todos", Ejemplo: file./*, aplica file a todos los archivos.*|
 
 ## Referencias
-* [ninguna]
+* [Ninguna]
 
 Fecha: 16/02/2023.
 

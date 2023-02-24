@@ -43,10 +43,10 @@ The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 | tar | Empaqueta archivos. | 
 
 ## Referencias
-* [Volcado Hexadecimal]([Volcado hexadecimal - Wikipedia, la enciclopedia libre](https://en.wikipedia.org/wiki/Hex_dump))
+* [Volcado Hexadecimal](https://en.wikipedia.org/wiki/Hex_dump)
 * [xxd](linux-console.nethttps://es.linux-console.net/?p=3429#gsc.tab=0)
-* [gzip]([Comando Gzip en Linux | Linuxizar (linuxize.com)](https://linuxize.com/post/gzip-command-in-linux/))
-* [zcat]([-🔥 Tutorial de comando Linux zcat para principiantes (5 ejemplos) 🔥- (linuxpasion.com)](https://linuxpasion.com/tutorial-de-comando-linux-zcat-para-principiantes-5-ejemplos))
-* [tar]([Comando 'tar' en Linux: para qué sirve, ejemplos... (ccm.net)](https://es.ccm.net/ordenadores/linux/2988-el-comando-tar/))
+* [gzip](https://linuxize.com/post/gzip-command-in-linux/)
+* [zcat](https://linuxpasion.com/tutorial-de-comando-linux-zcat-para-principiantes-5-ejemplos)
+* [tar](https://es.ccm.net/ordenadores/linux/2988-el-comando-tar/)
 
 Fecha: 21/02/2023.

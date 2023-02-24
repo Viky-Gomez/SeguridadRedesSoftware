@@ -47,6 +47,6 @@ P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 | -type | Especificar el tipo. |
 
 ## Referencias
-* [ninguna]
+* [Ninguna]
 
 Fecha: 16/02/2023.

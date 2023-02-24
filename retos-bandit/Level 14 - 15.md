@@ -24,6 +24,6 @@ bandit14@bandit:~$
 | nc | (Netcat) Permite que dos equipos se conecten y compartan recursos. |
 
 ## Referencias
-* [nc]([nc Command en Linux: 5 ejemplos prácticos (linuxhandbook.com)](https://linuxhandbook.com/nc-command/))
+* [nc](https://linuxhandbook.com/nc-command/)
 
 Fecha: 21/02/2023.

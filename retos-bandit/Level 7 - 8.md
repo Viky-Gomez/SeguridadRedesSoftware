@@ -41,7 +41,7 @@ bandit7@bandit:~$
 
 
 ## Referencias
-* [grep]([Comando Grep en Linux - Tutorial + Ejemplos Útiles (hostinger.es)](https://www.hostinger.es/tutoriales/comando-grep-linux#:~:text=El%20comando%20grep%20perteneciente%20a%20la%20familia%20Unix,imprimir%C3%A1%20la%20l%C3%ADnea%20o%20l%C3%ADneas%20que%20la%20contengan.))
-* [wc]([comando wc en Linux con ejemplos - GeeksforGeeks](https://www.geeksforgeeks.org/wc-command-linux-examples/))
+* [grep](https://www.hostinger.es/tutoriales/comando-grep-linux#:~:text=El%20comando%20grep%20perteneciente%20a%20la%20familia%20Unix,imprimir%C3%A1%20la%20l%C3%ADnea%20o%20l%C3%ADneas%20que%20la%20contengan.)
+* [wc](https://www.geeksforgeeks.org/wc-command-linux-examples/)
 
 Fecha: 16/02/2023.

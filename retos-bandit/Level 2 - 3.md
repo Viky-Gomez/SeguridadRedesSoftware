@@ -42,6 +42,6 @@ aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 - Cuando hay espacios en el nombre, hay que delimitarlo.
 
 ## Referencias
-* [Espacios en blanco en filename]([Cómo hacer referencia al nombre de archivo con espacios en Linux (linuxhint.com)](https://linuxhint.com/reference-filename-with-spaces-linux/))
+* [Espacios en blanco en filename](https://linuxhint.com/reference-filename-with-spaces-linux/)
 
 Fecha: 16/02/2023.

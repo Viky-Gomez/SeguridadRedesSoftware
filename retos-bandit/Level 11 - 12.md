@@ -40,7 +40,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 | tr | Traduce, elimina y comprime caracteres de la entrada estándar y escribe el resultado en la salida estándar. |
 
 ## Referencias
-* [ROT13]([ROT13 - Wikipedia, la enciclopedia libre](https://en.wikipedia.org/wiki/ROT13))
-* [tr]([Comando Tr en Linux con ejemplos | Linuxizar (linuxize.com)](https://linuxize.com/post/linux-tr-command/))
+* [ROT13](https://en.wikipedia.org/wiki/ROT13)
+* [tr](https://linuxize.com/post/linux-tr-command/)
 
 Fecha: 21/02/2023.

@@ -33,6 +33,6 @@ Connection to bandit.labs.overthewire.org closed
 | ssh | Proporciona una conexión cifrada segura entre dos hosts a través de una red insegura. |
 
 ## Referencias
-* [ssh]([¿Qué Es El Comando Ssh En Linux? - FAQs De Tecnología (tecnofaq.com)](https://tecnofaq.com/que-es-el-comando-ssh-en-linux/#:~:text=Comando%20SSH%20en%20Linux%20El%20comando%20ssh%20proporciona,transferencias%20de%20archivos%20y%20para%20canalizar%20otras%20aplicaciones.))
+* [ssh](https://tecnofaq.com/que-es-el-comando-ssh-en-linux/#:~:text=Comando%20SSH%20en%20Linux%20El%20comando%20ssh%20proporciona,transferencias%20de%20archivos%20y%20para%20canalizar%20otras%20aplicaciones.)
 
 Fecha: 21/02/2023.

@@ -61,12 +61,10 @@ bandit17@bandit:~$ exit
 ## Notas Adicionales
 * *Port Scanner*: Es una aplicación diseñada para sondear un servidor o host en busca de putertos abiertos.
 * *Port Scan / Portscan:* Es un proceso que envía solicitudes de cliente a un rango de direcciones de puerto de servidor en un host, con el objetivo de encontrar un puerto activo.
-|Comando | Descripcion |
-|-----|-------|
-| nmap | Herramienta de exploración de redes y de sondeo de seguridad / puertos. |
+* *nmap:* Herramienta de exploración de redes y de sondeo de seguridad / puertos.
 
 ## Referencias
-* [nmap]([Guía de referencia de Nmap (Página de manual)](https://nmap.org/man/es/index.html))
-* [Port Scanner]([Escáner de puertos - Wikipedia, la enciclopedia libre](https://en.wikipedia.org/wiki/Port_scanner))
+* [nmap](https://nmap.org/man/es/index.html)
+* [Port Scanner](https://en.wikipedia.org/wiki/Port_scanner)
 
 Fecha: 23/02/2023.

@@ -53,7 +53,7 @@ bandit14@bandit:~$
 | openSSL | Biblioteca criptográfica robusta y de alto rendimiento con soporte para una amplia gama de primitivas criptográficas.
 
 ## Referencias
-* [SSL]([OpenSSL Cookbook 3rd Edition - Capítulo 1. Línea de comandos OpenSSL (feistyduck.com)](https://www.feistyduck.com/library/openssl-cookbook/online/openssl-command-line/index.html))
-* [Transport Layer Security]([Transport Layer Security - Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_2.0,_and_3.0))
+* [SSL](https://www.feistyduck.com/library/openssl-cookbook/online/openssl-command-line/index.html)
+* [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_2.0,_and_3.0)
 
 Fecha: 21/02/2023.

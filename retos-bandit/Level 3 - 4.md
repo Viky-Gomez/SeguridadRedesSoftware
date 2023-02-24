@@ -43,6 +43,6 @@ bandit3@bandit:~/inhere$
 | ls -la | Mostrar listado de archivos ocultos de un directorio.
 
 ## Referencias
-* [ninguna]
+* [Ninguna]
 
 Fecha: 16/02/2023.
