@@ -19,7 +19,7 @@ drwxr-xr-x 70 root     root      4096 Feb 21 22:04 ..
 -rw-r--r--  1 root     root      3771 Jan  6  2022 .bashrc
 -rw-r--r--  1 root     root       807 Jan  6  2022 .profile
 bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20
-VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+'VxCazJaVykI6W36BkBU0mJTCM8rR95XT'
 bandit19@bandit:~$
 ```
 

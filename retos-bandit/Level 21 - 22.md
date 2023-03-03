@@ -36,7 +36,7 @@ bandit21@bandit:~$ cat /usr/bin/cronjob_bandit22.sh
 chmod 644 /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 bandit21@bandit:~$  cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
-WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
+'WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff'
 ```
 ## Notas Adicionales
 |Comando | Descripcion |

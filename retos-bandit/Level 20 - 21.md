@@ -18,7 +18,7 @@ bandit20@bandit:~$ ./suconnect 6666
 Connection received on 127.0.0.1 49362
 Read: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 Password matches, sending next password
-NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
+'NvEJF7oVjkddltPSrdKEFOllh9V1IBcq'
 bandit20@bandit:~$
 ```
 

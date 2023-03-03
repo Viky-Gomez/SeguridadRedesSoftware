@@ -11,7 +11,6 @@
 ## Solución
 
 ## Notas Adicionales
-
 |Comando | Descripcion |
 |-----|-------|
 | xxxx | xxxxxxxxxxx.

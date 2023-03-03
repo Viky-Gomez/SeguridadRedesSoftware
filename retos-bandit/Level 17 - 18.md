@@ -25,7 +25,7 @@ bandit17@bandit:~$ diff passwords.old passwords.new --color
 42c42
 < f9wS9ZUDvZoo3PooHgYuuWdawDFvGld2
 ---
-> hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+> 'hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg'
 bandit17@bandit:~$
 ```
 
