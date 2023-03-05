@@ -1,7 +1,8 @@
 # Bandit Level 29 → Level 30
 
 ## Objetivo
-Hay un repositorio git. La contraseña para el usuario es la misma que para el usuario: `ssh://bandit29-git@localhost/home/bandit29-git/repobandit29-gitbandit29`.
+Hay un repositorio git. La contraseña para el usuario es la misma que para el usuario: ssh://bandit29-git@localhost/home/bandit29-git/repobandit29-gitbandit29.
+
 Clone el repositorio y encuentre la contraseña para el siguiente nivel.
 
 ## Datos de acceso al nivel

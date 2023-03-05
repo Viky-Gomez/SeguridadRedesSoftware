@@ -1,7 +1,8 @@
 # Bandit Level 28 → Level 29
 
 ## Objetivo
-Hay un repositorio git. La contraseña para el usuario es la misma que para el usuario : `ssh://bandit28-git@localhost/home/bandit28-git/repobandit28-gitbandit28`.
+Hay un repositorio git. La contraseña para el usuario es la misma que para el usuario : ssh://bandit28-git@localhost/home/bandit28-git/repobandit28-gitbandit28.
+
 Clone el repositorio y encuentre la contraseña para el siguiente nivel.
 
 ## Datos de acceso al nivel
@@ -99,7 +100,7 @@ Some notes for level29 of bandit.
 | git checkout | Cambia ramas y restaura archivos del árbol de trabajo. |
 
 ## Referencias
-* [mktemp]([mktemp - Unix, Comando Linux (tutorialspoint.com)]https://www.tutorialspoint.com/unix_commands/mktemp.htm)
+* [mktemp](https://www.tutorialspoint.com/unix_commands/mktemp.htm)
 * [git log](https://www.w3docs.com/learn-git/git-log.html#:~:text=The%20git%20log%20command%20shows%20committed%20snapshots.%20It,controlling%20the%20working%20directory%20and%20the%20staging%20area.)
 * [git checkout](https://git-scm.com/docs/git-checkout)
 

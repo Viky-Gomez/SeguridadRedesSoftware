@@ -1,7 +1,7 @@
 # Bandit Level 27 → Level 28
 
 ## Objetivo
-Hay un repositorio git en . La contraseña para el usuario es la misma que para el usuario.`ssh://bandit27-git@localhost/home/bandit27-git/repo``bandit27-git``bandit27`.
+Hay un repositorio git en . La contraseña para el usuario es la misma que para el usuario: ssh://bandit27-git@localhost/home/bandit27-git/repo``bandit27-git``bandit27.
 
 Clone el repositorio y encuentre la contraseña para el siguiente nivel.
 ## Datos de acceso al nivel
