@@ -31,9 +31,11 @@ vikyga-picoctf@webshell:~$
 * *Comunicación HTTP:* protocolo sin estado de la capa de aplicación que articula los intercambios de información entre los clientes Web y los servidores HTTP.
 * *HTTP headers:* permiten al cliente y al servidor pasar información adicional con una solicitud o respuesta HTTP.
 * *HTTP cookies:* es una pequeña pieza de datos que un servidor envía a el navegador web del usuario, el navegador los guarda y los envía de regreso junto con la nueva petición al mismo servidor.
+
 |Comando | Descripcion |
 |-----|-------|
-| curl | Transfiere datos hacia o desde un servidor, utilizando cualquiera de los protocolos compatibles (HTTP, FTP, IMAP, POP3, FILE, etc). |
+| curl | Transfiere datos hacia o desde un servidor, utilizando cualquiera de los protocolos compatibles (HTTP, FTP, IMAP, POP3, FILE, etc).|
+
 
 ## Referencias
 * [HTTP](https://neo.lcc.uma.es/evirtual/cdd/tutorial/aplicacion/http.html)

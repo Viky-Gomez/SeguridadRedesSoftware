@@ -43,6 +43,7 @@
 
 ## Notas adicionales
 *- Client-side:* se refiere a todo en una aplicación web que se muestra o tiene lugar en el dispositivo del usuario final: texto, imágenes y el resto de la interfaz de usuario.
+
 *- Server-side:* todos los procesos que tienen lugar dentro de un servidor: interacción con bases de datos, autenticación de identidad notificaciones push, etc.
 
 ## Referencias

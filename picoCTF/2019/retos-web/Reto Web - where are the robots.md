@@ -8,10 +8,10 @@
 
 ## Solución
 1.  Inspeccionar el código fuente de la página.
-2. Ingresar a la url el sufijo "/robots.txt":
-	User-agent: *
+2. Ingresar a la url el sufijo "/robots.txt":  
+	User-agent: *  
 	Disallow: /8028f.html
-3. Copiar el valor de Disallow y agregarlo como un nuevo sufijo a la url.
+3. Copiar el valor de Disallow y agregarlo como un nuevo sufijo a la url:
 		Guess you found the robots  
 	**picoCTF{ca1cu1at1ng_Mach1n3s_8028f}**
 
